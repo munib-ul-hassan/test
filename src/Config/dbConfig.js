@@ -4,7 +4,7 @@ config();
 
 const dbConfig = {
   // MongoDB connection string
-  db: "mongodb://localhost:27017/test",
+  db: "mongodb://127.0.0.1:27017/test",
 };
 
 export default dbConfig;
